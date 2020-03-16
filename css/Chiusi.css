@@ -1,0 +1,45 @@
+
+
+
+
+.titolo{
+	text-align: center;
+	color: green;
+}
+
+#immagine{
+	width:20px;
+	height:20px;
+}
+#storia{
+	width:700px;
+}
+
+.sinistra,.destra {
+  float: left;
+  width: 50%;
+  box-sizing: border-box;
+}
+.sinistra {
+  border-right: 1px solid #000;
+  padding-right: 20px;
+}
+.destra {
+  padding-left: 20px;
+}
+
+.colore{
+	color:red;
+}
+
+.border{
+	
+	border: 1px solid black;
+	text-align: center;
+}
+
+.tabella{
+	width:100%;
+	border: 1px solid black;
+	
+}

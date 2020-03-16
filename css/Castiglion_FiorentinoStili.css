@@ -1,0 +1,84 @@
+#popolazione {
+background-color: red;
+
+}
+
+#storia {
+    background: yellow;
+    float: left;
+    
+}
+
+h1{
+    text-align: center;
+    color: green;
+}
+
+#sto {
+    position:relative;						
+    top:0px;					
+    left:100px;
+    color: red;
+}
+#popo {
+    position:relative;						
+    top:0px;					
+    left:100px;
+    color: black;
+}
+
+body {					
+   margin:	20px;					
+   padding:		20px;				
+   font-size: 	80%;	
+   font-family:	Verdana, Geneva, Arial, Helvetica, sans-serif ;				
+   text-align:	left;			
+   background:	;				
+}		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

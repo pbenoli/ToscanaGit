@@ -1,0 +1,37 @@
+#stemma{
+	width:80px;
+	height:auto;
+}
+
+#comune{
+	font-weight:bold;
+	color:rgb(13, 13, 13);
+}
+
+#div_img{
+	width:100px;
+	float: left;
+}
+
+#div_titolo{
+	float:left;
+	display:block;
+}
+
+body{
+	background-color:rgb(209, 209, 224);
+}
+
+section{
+	width:800px;
+}
+#storia{
+	background-color:rgb(166, 166, 166);
+}
+
+#altro{
+	background-color:rgb(166, 166, 166);
+	position: absolute;
+	right: 100px;
+	top: 40px;
+}
