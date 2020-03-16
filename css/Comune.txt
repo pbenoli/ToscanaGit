@@ -1,3 +1,4 @@
+
 #popolazione {
 background-color: red;
 
@@ -35,51 +36,6 @@ body {
    text-align:	left;			
    background:	;				
 }		
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
