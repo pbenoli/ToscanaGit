@@ -1,55 +1,55 @@
-
+//Castiglion Fibocchi
 #div_stemma{
-	float:center;
-
+   float:center;
+   
 }
 #stemma {
-	float: center;
-	width: 15%;
-	height: 15%;
+   float: center;   /* Castiglion Fibocchi, Monte_San_Savino, Monterchi, Sinalunga */
+   width: 15%;   /* Castiglion Fibocchi, css (), Monte_San_Savino, Monte Santa Maria Tiberina  */
+   height: 15%;   /* Castiglion Fibocchi, Monte_San_Savino, Monte Santa Maria Tiberina , Sinalunga */
 }
 #div_mappa{
-	float: right;
-	width: 222px;
-	
+   float: right;
+   width: 222px;
+   
 }
 #mappa{
-	width: 100%;
-	height: 100%;
-	float: right;
+   width: 100%;   /* Castiglion Fibocchi, Civitella in Val di Chiana, Sinalunga */
+   height: 100%;   /* Castiglion Fibocchi, Sinalunga */
+   float: right;   /* Castiglion Fibocchi, Civitella in Val di Chiana */
 }
 #storia {
-	/* background-color: brown; */
-	border-width: 2px;
-	border-style: groove;
+   /* background-color: brown; */
+   border-width: 2px;
+   border-style: groove;
 }
 #geografia{
-	/* background-color: yellow; */
-	border-width: 2px;
-	border-style: groove;
+   /* background-color: yellow; */
+   border-width: 2px;
+   border-style: groove;
 }
 #popolazione{
-	/* background-color: cyan; */
-	border-width: 2px;
-	border-style: groove;
+   /* background-color: cyan; */
+   border-width: 2px;
+   border-style: groove;
 }
 #comuni{
-	/* background-color: green; */
-	float:right;
-	width:222px;
-	border-width: 2px;
-	/* border-style: groove; */
+   /* background-color: green; */
+   float:right;   /* Castiglion Fibocchi, Monterchi */
+   width:222px;
+   border-width: 2px;
+   /* border-style: groove; */
 }
 #articolo{
-	float:bottom;
+   float:bottom;
 }
 section{
-	width:640px;
+   width:640px;   /* Castiglion Fibocchi, Monte Santa Maria Tiberina  */
 }
-
+   
 body{
-
-	width:900px;
-	font-size:medium;
-	font-style: "Arial", Helvetica, sans-serif;
+   
+   width:900px;
+   font-size:medium;   /* Castiglion Fibocchi, Castiglion Fiorentino */
+   font-style: "Arial", Helvetica, sans-serif;
 }

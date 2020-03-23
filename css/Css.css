@@ -1,18 +1,19 @@
+//css ()
 h1 {
   background-color: red;
 }
-
+   
 div {
   background-color: lightblue;
 }
-
+   
 p {
   background-color: white;
 }
 #stemma {
-	width: 20px;
-	padding: 20px 50px 75px;
-	
-	
+   width: 20px;   /* Castiglion Fibocchi, css (), Monte_San_Savino, Monte Santa Maria Tiberina , Sinalunga */
+   padding: 20px 50px 75px;
+   
+   
 }
-	
+   

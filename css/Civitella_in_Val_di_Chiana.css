@@ -1,40 +1,41 @@
+//Civitella in Val di Chiana
 body{
-	font-family: verdana,geneva , sans-serif;
-	
+   font-family: verdana,geneva , sans-serif;   /* Castiglion Fiorentino, Civitella in Val di Chiana */
+   
 }
 h1{
-	color:red;
-	font-family: georgia, times, serif;
-	font-size:xx-larger;
+   color:red;   /* Castiglion Fiorentino, Civitella in Val di Chiana */
+   font-family: georgia, times, serif;
+   font-size:xx-larger;
 }
 #comune{
-	border: 1px solid #ccc;
-	float: left;
-	width: 10%;
-	margin-top:3%; 
-	border: ;
-	padding:;
+   border: 1px solid #ccc;   /* Civitella in Val di Chiana, Civitella in Val di Chiana */
+   float: left;
+   width: 10%;
+   margin-top:3%; 
+   border: ;   /* Civitella in Val di Chiana, Civitella in Val di Chiana */
+   padding:;
 }
 #mappa{
-	margin: 0px;
-	border: 1px solid #ccc;
-	float: right;
-	width: 20%;
+   margin: 0px;
+   border: 1px solid #ccc;
+   float: right;   /* Castiglion Fibocchi, Civitella in Val di Chiana */
+   width: 20%;   /* Castiglion Fibocchi, Civitella in Val di Chiana, Sinalunga */
 }
 #storia{
-	
+   
 }
 #geografia{
-	
+   
 }
 #dati{
-	
+   
 }
 p{
-	margin-left: 10%;
-	margin-right:10%;
+   margin-left: 10%;
+   margin-right:10%;   /* Civitella in Val di Chiana, Sinalunga */
 }
 h2{
-	margin-left: 10%;
-	margin-right:10%;
+   margin-left: 10%;
+   margin-right:10%;
 }

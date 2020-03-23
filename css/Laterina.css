@@ -1,52 +1,53 @@
+//Laterina
 body{
 background-color: rgb(204, 204, 255);
 }
-
+   
 h1{
-text-align: center;
+text-align: center;   /* Laterina, Laterina */
 }
-
+   
 h2{
-text-align:center;
+text-align:center;   /* Laterina, Laterina */
 }
-
+   
 #titolo{
 position: fixed;
 right:62px;
 top:15px;
 }
-
+   
 img{
     position: fixed;
     right: 25px;
     width: 128px;
     height: 128px;
 }
-
+   
 #stemma{
     top: 40px;
 }
-
+   
 #regione{
     top: 180px;
     }
-
+   
 #testo{
-    margin-right:175px;
-    border-right: 2px solid rgb(0,0,50);
+    margin-right:175px;   /* Laterina, Monte_San_Savino, Sinalunga */
+    border-right: 2px solid rgb(0,0,50);   /* Laterina, Monte_San_Savino */
 }
-
+   
 #side{
     position: fixed;
     right: 3px;
     top:330px;
 }
-
+   
 a{
     color:rgb(80,80,80);
     text-decoration: none;
 }
-
+   
 hr {
      border: 1px solid rgb(0,0,50);
 }

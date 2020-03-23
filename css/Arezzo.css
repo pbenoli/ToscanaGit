@@ -1,47 +1,39 @@
-/*
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
-*/
-/* 
-    Created on : 13-gen-2020, 19.34.28
-    Author     : paolo
-*/
+//Arezzo
 header{
    text-align: center;
    font-size: 200%;
 }
 nav {
    
-   background-color:green;
-   width:200px;
-   position:absolute;
-   top:100;
-   left:0;
-   bottom: 0; 
-   height: 100%;
-   overflow: hidden; 
+   background-color:green;   /* Arezzo, index */
+   width:200px;   /* Arezzo, index */
+   position:absolute;   /* Arezzo, index */
+   top:100;   /* Arezzo, index */
+   left:0;   /* Arezzo, index */
+   bottom: 0;    /* Arezzo, index */
+   height: 100%;   /* Arezzo, index */
+   overflow: hidden;    /* Arezzo, index */
 }
 nav a{
-   color:white;
-   text-decoration:none;
+   color:white;   /* Arezzo, index */
+   text-decoration:none;   /* Arezzo, index */
 }
 article{
-   font-family: Verdana,sans-serif;
-   font-size: 15px;
-   left:200px;
-   padding:10px;
-   position:fixed;
-   top: 0; 
-   right: 0;
-   bottom: 0;
-   overflow: auto; 
-   background: #fff;
+   font-family: Verdana,sans-serif;   /* Arezzo, index */
+   font-size: 15px;   /* Arezzo, index */
+   left:200px;   /* Arezzo, index */
+   padding:10px;   /* Arezzo, index */
+   position:fixed;   /* Arezzo, index */
+   top: 0;    /* Arezzo, index */
+   right: 0;   /* Arezzo, index */
+   bottom: 0;   /* Arezzo, index */
+   overflow: auto;    /* Arezzo, index */
+   background: #fff;   /* Arezzo, index */
    max-width: 800px;
 }
-
+   
 #stemma{
    display: block;
-  margin-left: auto;
+  margin-left: auto;   /* Arezzo, Monte_San_Savino */
   margin-right: auto;
 }

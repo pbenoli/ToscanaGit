@@ -1,21 +1,23 @@
+//Monterchi
 #stemma {
-	float: left;
-	
+   float: left;   /* Castiglion Fibocchi, Monte_San_Savino, Monterchi, Sinalunga */
+   
 }
-	
-#carta	{
-	float: right;
-	
+   
+#carta   {
+   float: right;
+   
 }
-
+   
 #storia {
-	width:800px;
-	/*background-color:grey;*/
-	margin-left: 200px;
+   width:800px;   /* Chiusi, Monterchi */
+   /*background-color:grey;*/
+   margin-left: 200px;
 }
-
+   
 #comuni {
-	float: right;
-	
+   float: right;   /* Castiglion Fibocchi, Monterchi */
+   
 }
-	
+   
+   
