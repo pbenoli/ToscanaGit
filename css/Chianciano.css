@@ -1,0 +1,29 @@
+body{
+	background-color: lightblue
+}
+#div1 {
+  background-color: lightgrey;
+  width: 1100px;
+  border: 14px solid blue;
+  padding: 50px;
+  margin: 25px;
+  font-size: 18px;
+}
+
+#titolo {
+	text-align: center;
+    padding:50px 0px 0px 3px;
+	font-size: 26px;
+
+}
+#stemma {
+	width: 200px;
+}
+ 
+#popolazione {
+  background-color: lightgrey;
+  width: 200px;
+  border: 14px solid blue;
+  padding: 50px;
+  margin: 25px;
+  font-size: 18px;
