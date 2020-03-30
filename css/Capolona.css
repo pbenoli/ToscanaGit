@@ -1,0 +1,11 @@
+#immagine{
+    position: relative;
+    width: 121px 250px ;
+    float: left;
+   
+}
+#titolo{
+    float: left; 
+    display: block;
+
+}
