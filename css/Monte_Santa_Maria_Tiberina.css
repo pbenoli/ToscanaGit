@@ -1,38 +1,46 @@
 //Monte Santa Maria Tiberina 
-#stemma{
-   width:80px;   /* Castiglion Fibocchi, css (), Monte_San_Savino, Monte Santa Maria Tiberina , Sinalunga */
-   height:auto;   /* Castiglion Fibocchi, Monte_San_Savino, Monte Santa Maria Tiberina , Sinalunga */
-}
+
+
    
-#comune{
+#comune {
    font-weight:bold;
    color:rgb(13, 13, 13);
 }
    
-#div_img{
+#div_img {
    width:100px;
    float: left;
 }
    
-#div_titolo{
+#div_titolo {
    float:left;
    display:block;
 }
    
-body{
-   background-color:rgb(209, 209, 224);   /* Monte_San_Savino, Monte Santa Maria Tiberina , Sinalunga */
+body {
+   background-color:rgb(209, 209, 224);   
 }
    
-section{
-   width:800px;   /* Castiglion Fibocchi, Monte Santa Maria Tiberina  */
+section {
+   width:670px;   
 }
-#storia{
+#storia {
    background-color:rgb(166, 166, 166);
 }
    
-#altro{
+#altro {
    background-color:rgb(166, 166, 166);
    position: absolute;
-   right: 100px;
-   top: 40px;
+   right: 0px;
+   top: 8px;
+}
+
+#mappa {
+   width:600px;   
+   height:auto;   
+}
+
+#stemma {
+   width:80px;   
+   height:auto;   
 }
