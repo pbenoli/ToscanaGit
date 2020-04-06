@@ -1,228 +1,72 @@
-/* Tag */
-
-
-a{ /*Laterina*/
-
+#locazione, #storia, #popolazione, #territorio, #chiese {
+   content:10px;
+   padding:10px;
+   border:10px;
+   margin:30px;
+   text-align: justify;
 }
-
-article{ /*Arezzo, index*/
-
+   
+h2 {
+   color:RGB(0,0,0);
+   height:2px;
+   padding:10px;
+   border:10px;
+   margin:30px;
+   text-align: center;
+   content:10px
 }
-
-body{ /*Monte_San_Savino, Sinalunga, Castiglion Fibocchi, Civitella in Val di Chiana, Laterina, Monte Santa Maria Tiberina , Castiglion Fiorentino*/
-
+   
+body {
+   background-color:#FDEEF4;   /* Monte_San_Savino, Monte Santa Maria Tiberina , Sinalunga */
 }
-
-div{ /*css ()*/
-
+   
+   
+#cartina {
+   position:fixed;
+   float: right;
+   height: 45%;
+   width: 18%;
+   margin:30px;
+   padding:10px;
+   border:10px;
+   margin-left:1070px;
+   
+   
 }
-
-h1{ /*css (), Sinalunga, Castiglion Fiorentino, Civitella in Val di Chiana, Laterina*/
-
+   
+#titolo {
+   margin:30px;
+   text-align:center;
+   color:RGB(155,0,0);
 }
-
-h2{ /*Monte_San_Savino, Civitella in Val di Chiana, Laterina*/
-
+   
+#testo {
+   margin-right:250px;   /* Laterina, Monte_San_Savino, Sinalunga */
+   border-right:5px solid black;   /* Laterina, Monte_San_Savino */
 }
-
-h3{ /*Sinalunga*/
-
+   
+   
+#comuni1{
+   margin-right:150px;
+   float:left;
+   margin-left:150px;
 }
-
-header{ /*Arezzo*/
-
+   
+   
+#comuni2{
+   
 }
-
-hr{ /*Laterina, Sinalunga*/
-
+   
+#segnalibri{
+   position:fixed;
+   margin-left:1070px;
+   margin-top: 400px;
 }
-
-img{ /*Laterina*/
-
+   
+#stemma{
+   height:15%;   /* Castiglion Fibocchi, Monte_San_Savino, Monte Santa Maria Tiberina , Sinalunga */
+   width:15%;   /* Castiglion Fibocchi, css (), Monte_San_Savino, Monte Santa Maria Tiberina , Sinalunga */
+   float: left;   /* Castiglion Fibocchi, Monte_San_Savino, Monterchi, Sinalunga */
+   margin-top:40px;
+   margin-left:25px;   /* Arezzo, Monte_San_Savino */
 }
-
-li a{ /*Sinalunga*/
-
-}
-
-li a:hover:not(.active){ /*Sinalunga*/
-
-}
-
-li a.active{ /*Sinalunga*/
-
-}
-
-nav{ /*Arezzo, index*/
-
-}
-
-nav a{ /*Arezzo, index*/
-
-}
-
-p{ /*css (), Sinalunga, Civitella in Val di Chiana*/
-
-}
-
-section{ /*Castiglion Fibocchi, Monte Santa Maria Tiberina */
-
-}
-
-ul{ /*Sinalunga, Sinalunga*/
-
-}
-
-
-/* Classi */
-
-
-.border{ /*Chiusi*/
-
-}
-
-.colore{ /*Chiusi*/
-
-}
-
-.destra{ /*Chiusi*/
-
-}
-
-.sinistra{ /*Chiusi*/
-
-}
-
-.sinistra,.destra{ /*Chiusi*/
-
-}
-
-.tabella{ /*Chiusi*/
-
-}
-
-.titolo{ /*Chiusi*/
-
-}
-
-
-/* Id */
-
-
-
-#altro{ /*Monte Santa Maria Tiberina */
-
-}
-
-#articolo{ /*Castiglion Fibocchi*/
-
-}
-
-#carta	{ /*Monterchi*/
-
-}
-
-#cartina{ /*Monte_San_Savino*/
-
-}
-
-#comune{ /*Civitella in Val di Chiana, Monte Santa Maria Tiberina */
-
-}
-
-#comuni{ /*Castiglion Fibocchi, Monterchi*/
-
-}
-
-#comuni1{ /*Monte_San_Savino*/
-
-}
-
-#comuni2{ /*Monte_San_Savino*/
-
-}
-
-#dati{ /*Civitella in Val di Chiana*/
-
-}
-
-#div_img{ /*Monte Santa Maria Tiberina */
-
-}
-
-#div_mappa{ /*Castiglion Fibocchi*/
-
-}
-
-#div_stemma{ /*Castiglion Fibocchi*/
-
-}
-
-#div_titolo{ /*Monte Santa Maria Tiberina */
-
-}
-
-#geografia{ /*Castiglion Fibocchi, Civitella in Val di Chiana*/
-
-}
-
-#immagine{ /*Chiusi*/
-
-}
-
-#locazione,#storia,#popolazione,#territorio,#chiese{ /*Monte_San_Savino*/
-
-}
-
-#mappa{ /*Castiglion Fibocchi, Civitella in Val di Chiana, Sinalunga*/
-
-}
-
-#popo{ /*Castiglion Fiorentino*/
-
-}
-
-#popolazione{ /*Castiglion Fibocchi, Castiglion Fiorentino*/
-
-}
-
-#prima_parte{ /*Sinalunga*/
-
-}
-
-#regione{ /*Laterina*/
-
-}
-
-#segnalibri{ /*Monte_San_Savino*/
-
-}
-
-#side{ /*Laterina*/
-
-}
-
-#stemma{ /*Arezzo, Castiglion Fibocchi, css (), Laterina, Monte Santa Maria Tiberina , Monte_San_Savino, Monterchi, Sinalunga*/
-
-}
-
-#sto{ /*Castiglion Fiorentino*/
-
-}
-
-#storia{ /*Castiglion Fibocchi, Castiglion Fiorentino, Chiusi, Civitella in Val di Chiana, Monte Santa Maria Tiberina , Monterchi*/
-
-}
-
-#testo{ /*Laterina, Monte_San_Savino, Sinalunga*/
-
-}
-
-#titolo{ /*Laterina, Monte_San_Savino*/
-
-}
-
-
-
-
-
